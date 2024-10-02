@@ -1,3 +1,4 @@
+![logo](https://github.com/PrabalSharma0015/PrabalSharma0015/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Prabal Sharma</h1>
 <h3 align="center">Second-Year Student at Bennett University | 3D Artist | Aspiring Game Development 🎮</h3>
 <img align="right" alt="Development" width="400" src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif">
