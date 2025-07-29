@@ -1,19 +1,19 @@
 ![logo](https://github.com/PrabalSharma0015/PrabalSharma0015/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Prabal Sharma</h1>
-<h3 align="center">Second-Year Student at Bennett University | 3D Artist | Aspiring Game Development 🎮</h3>
+<h3 align="center">AR/VR Developer | Game Developer | Unreal Engine Specialist</h3>
 <img align="right" alt="Development" width="400" src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalsharma0015&label=Profile%20views&color=0e75b6&style=flat" alt="prabalsharma0015" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prabal_sharma15" target="blank"><img src="https://img.shields.io/twitter/follow/prabal_sharma15?logo=twitter&style=for-the-badge" alt="prabal_sharma15" /></a> </p>
 
-- 🌱 I’m currently learning **Blender, Unity Engine , Unreal Engine**
+- 💻 Experienced in Unreal Engine ⚡ | Blender 🎨 | Unity 🎮 for Game & AR/VR Development.
 
-- 💬 Ask me about **Game Development And 3D Stuff**
+- 💬 Ask me about **Game Development,AR/VR And 3D Stuff**
 
 - 📫 How to reach me **prabalsharma0015@gmail.com**
 
-- ⚡ Fun fact **I am like a game character with a maxed-out leadership stat—while most people are leveling up in just one thing, I am out here mastering 3D art, gaming tech, and algorithms, all while leading the squad like a pro. Basically, i am the boss battle everyone needs but no one is ready me...**
+- ⚡ Fun fact **🤖 I love mixing creativity with tech — if it can be built virtually, I’ll try to make it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
