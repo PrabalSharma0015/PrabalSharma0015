@@ -1,6 +1,6 @@
 ![logo](https://github.com/PrabalSharma0015/PrabalSharma0015/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Prabal Sharma</h1>
-<h3 align="center">AR/VR Developer | Game Developer | Unreal Engine Specialist</h3>
+<h3 align="center">AR/VR Specialist | Game Developer | Unreal Engine Developer </h3>
 <img align="right" alt="Development" width="400" src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalsharma0015&label=Profile%20views&color=0e75b6&style=flat" alt="prabalsharma0015" /> </p>
